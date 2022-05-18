@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vipul05
-- 🌱 I’m currently learning Data Science And Machine Learning
-- 📫 You can email me at: vipul51198@gmail.com
+- 🌱 I’m learning Data Science And ML
+- 📫 You can connect with me at: vipul51198@gmail.com
